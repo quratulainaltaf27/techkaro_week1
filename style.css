@@ -1,0 +1,44 @@
+section{
+    float: left;
+    margin-top:2em;
+}
+.main-section
+{   
+ float: left;
+}
+body{
+    text-align: justify;
+}
+ul{
+    list-style-type: circle;
+}
+h1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#nav-bar
+{
+    float: left;
+    padding-right:6em;
+}
+.full
+{
+    width:60%;
+    padding-left: 4em;
+    float: left;
+}
+td
+{
+    border:2px solid grey;
+    padding: 0em 3em 0em 3em;
+}
+.red
+{
+    padding:1em 2em 1em 2em;
+    margin: 1em 0em 1em 0em ;
+    background-color:#f7f7f7;
+    border-radius: 4px;
+}
+p{
+    color:grey;
+}
